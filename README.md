@@ -7,7 +7,6 @@ Welcome to the repository for my personal portfolio website! This project showca
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Usage](#usage)
 - [Contact](#contact)
 
