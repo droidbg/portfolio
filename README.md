@@ -1,12 +1,51 @@
-# React + Vite
+# Binni Goel | Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the repository for my personal portfolio website! This project showcases my skills, projects, experience as a frontend web developer specializing in modern web technologies.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [About](#about)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Contact](#contact)
 
-## Expanding the ESLint configuration
+## About
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio website serves as an online resume and a showcase of my work as a frontend developer. It features interactive 3D animations and a sleek, modern design to highlights my professional journey, key projects, and technical skills. The site is designed to be clean, responsive, and user-friendly.
+
+## Features
+
+- **3D Animations**: Interactive 3D model animations powered by React Three.js.
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
+- **Project Showcase**: Highlights my best projects with descriptions and live links.
+- **About Me**: A section detailing my background, skills, and journey as a developer.
+- **Contact Form**: Allows visitors to connect with me directly.
+- **Dynamic Content**: Easily updatable to reflect my latest work.
+
+## Technologies Used
+
+- **React**: For building a dynamic and component-based UI.
+- **React Three.js**: For rendering and animating 3D models in the browser.
+- **Tailwind CSS**: For efficient, utility-first styling.
+- **JavaScript**: For interactivity and dynamic elements.
+- **HTML5**: For semantic structure.
+- **Vite**: Used as the development tool for fast builds and hot module replacement.
+- **Hosting**: Deployed via Vercel for seamless deployment and scalability.
+
+## Usage
+
+- Visit the live site at: [https://binni-portfolio.vercel.app] _(Update this once deployed)_
+- Explore the 3D animations by interacting with the models.
+- Navigate through the sections using the menu.
+- Check out my projects and feel free to reach out via the contact form!
+
+## Contact
+
+- **Email**: binnigoel01@gmail.com
+- **GitHub**: [droidbg](https://github.com/droidbg)
+- **LinkedIn**: https://www.linkedin.com/in/binni-goel/
+- **Portfolio**: [https://binni-portfolio.vercel.app] _(Update this once deployed)_
+
+Thank you for visiting my portfolio! I’m a frontend developer passionate about creating engaging user experiences. Suggestions or feedback? Feel free to open an issue or reach out!
