@@ -3,4 +3,6 @@ fileignoreconfig:
   checksum: 5fe742fa65b1dea8626174e639646dd7665eb5976ae9caa62855bc9bb33aeeb0
 - filename: package-lock.json
   ignore_detectors: [filecontent]
+- filename: src/components/Navbar.jsx
+  checksum: 9fe5dc07a0562c5a76dde94fa4c87059b181e59f3b457e53055ea8bc0f08722e
 version: ""
