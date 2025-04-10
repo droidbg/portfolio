@@ -35,7 +35,7 @@ This portfolio website serves as an online resume and a showcase of my work as a
 
 ## Usage
 
-- Visit the live site at: [https://binni-portfolio.vercel.app] _(Update this once deployed)_
+- Visit the live site at: https://binni-portfolio.vercel.app
 - Explore the 3D animations by interacting with the models.
 - Navigate through the sections using the menu.
 - Check out my projects and feel free to reach out via the contact form!
@@ -45,6 +45,6 @@ This portfolio website serves as an online resume and a showcase of my work as a
 - **Email**: binnigoel01@gmail.com
 - **GitHub**: [droidbg](https://github.com/droidbg)
 - **LinkedIn**: https://www.linkedin.com/in/binni-goel/
-- **Portfolio**: [https://binni-portfolio.vercel.app] _(Update this once deployed)_
+- **Portfolio**: https://binni-portfolio.vercel.app
 
 Thank you for visiting my portfolio! I’m a frontend developer passionate about creating engaging user experiences. Suggestions or feedback? Feel free to open an issue or reach out!
