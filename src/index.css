@@ -1,6 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 @import "tailwindcss";
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
+    color-scheme: dark;
+  }
+}
+
 @theme {
   --color-primary: #050816;
   --color-secondary: #aaa6c3;
@@ -11,15 +26,6 @@
   --shadow-card: 0px 35px 120px -15px #211e35;
   --breakpoint-xs: 450px;
   --background-image-hero-pattern: url("/src/assets/herobg.png");
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
-  scroll-behavior: smooth;
-  color-scheme: dark;
 }
 
 .hash-span {
