@@ -45,11 +45,15 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js. I'm a quick
-        learner who builds efficient, scalable, and user-friendly solutions to
-        solve real-world problems. Let's work together to bring your ideas to
-        life!
+        I'm a skilled software developer with experience in
+        <span className={styles.aboutKeyTech}>&nbsp;TypeScript&nbsp;</span>
+        and&nbsp;
+        <span className={styles.aboutKeyTech}>JavaScript,&nbsp; </span>
+        and expertise in frameworks like
+        <span className={styles.aboutKeyTech}> &nbsp;React, Node.js</span>. I'm
+        a quick learner who builds efficient, scalable, and user-friendly
+        solutions to solve real-world problems. Let's work together to bring
+        ideas to life!
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
@@ -59,5 +63,5 @@ const About = () => {
     </>
   );
 };
-
-export default SectionWrapper(About, "about");
+const AboutP = SectionWrapper(About, "about");
+export default AboutP;

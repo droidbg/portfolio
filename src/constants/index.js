@@ -15,14 +15,12 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  tw,
   carrent,
   jobit,
   tripguide,
   threejs,
+  nokia,
 } from "../assets";
 
 export const navLinks = [
@@ -116,55 +114,31 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
     title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    company_name: "Thoughtworks",
+    icon: tw,
+    iconBg: "#383E56",
+    date: "July 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using React.js, Node.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Improved recruiter engagement by 25% with a responsive redesign of client application",
+      "Integrated Keycloak and developed RESTful APIs for user management functionalities, including user creation, deletion, data retrieval, and temporary password resets; enhanced application security by 40% and reduced manual account management.",
       "Participating in code reviews and providing constructive feedback to other developers.",
+      "Implemented notification service from scratch, responsible for managing and delivering notifications to users, including email, whatsapp, storing templates and logging in db.",
+    ],
+  },
+  {
+    title: "Software Intern",
+    company_name: "Nokia",
+    icon: nokia,
+    iconBg: "#E6DEDD",
+    date: "May 2021 - June 2022",
+    points: [
+      "Developed and Maintain new features in internal website.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Worked on infra team to maintain jenkins pipeline.",
     ],
   },
 ];
