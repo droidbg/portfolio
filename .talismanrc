@@ -17,4 +17,7 @@ fileignoreconfig:
   checksum: fcca069a7f833cdd8be98abc5742b87ece59db47733518eafd080130b0a47bb8
 - filename: src/components/Experience.jsx
   checksum: 9ed8f6afe0fdf4c33ffbc483b7c32e63cbbe511f14ea5d2f570077c30f25b0bc
+allowed_patterns:
+  - key
+  - Key
 version: ""
