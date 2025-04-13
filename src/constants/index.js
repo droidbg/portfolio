@@ -19,7 +19,7 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
+  // threejs,
   nokia,
 } from "../assets";
 
@@ -94,20 +94,20 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
+  // {
+  //   name: "Three JS",
+  //   icon: threejs,
+  // },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "figma",
+    name: "Figma",
     icon: figma,
   },
   {
-    name: "docker",
+    name: "Docker",
     icon: docker,
   },
 ];

@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: src/components/Tech.jsx
+  checksum: 6b077861abcfc9fcd38435e7d82346d1f9016ab25a0f0e95926c62799387fcc3
 - filename: public/vite.svg
   checksum: 5fe742fa65b1dea8626174e639646dd7665eb5976ae9caa62855bc9bb33aeeb0
 - filename: package-lock.json
