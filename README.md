@@ -1,6 +1,8 @@
-# Binni Goel | Portfolio Website
+# [Binni Goel | Portfolio Website](https://binni-portfolio.vercel.app)
 
-Welcome to the repository for my personal portfolio website! This project showcases my skills, projects, experience as a frontend web developer specializing in modern web technologies.
+Welcome to the repository for my personal portfolio website! 
+This project showcases my skills, projects, experience as a frontend web developer specializing in modern web technologies.
+Visit the live site at: https://binni-portfolio.vercel.app
 
 ## Table of Contents
 
