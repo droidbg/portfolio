@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: src/components/Works.jsx
+  checksum: 93e7638524c4e4898fc18a94a9438a19f212fb3268d9e335a682848d0e0e8b43
 - filename: src/components/Tech.jsx
   checksum: 6b077861abcfc9fcd38435e7d82346d1f9016ab25a0f0e95926c62799387fcc3
 - filename: public/vite.svg
