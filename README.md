@@ -1,8 +1,8 @@
-# [Binni Goel | Portfolio Website](https://binni-portfolio.vercel.app)
+# [Binni Goel | Portfolio Website](https://binnigoel.vercel.app)
 
 Welcome to the repository for my personal portfolio website! 
 This project showcases my skills, projects, experience as a frontend web developer specializing in modern web technologies.
-Visit the live site at: https://binni-portfolio.vercel.app
+Visit the live site at: https://binnigoel.vercel.app
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ This portfolio website serves as an online resume and a showcase of my work as a
 
 ## Usage
 
-- Visit the live site at: https://binni-portfolio.vercel.app
+- Visit the live site at: https://binnigoel.vercel.app
 - Explore the 3D animations by interacting with the models.
 - Navigate through the sections using the menu.
 - Check out my projects and feel free to reach out via the contact form!
@@ -47,6 +47,6 @@ This portfolio website serves as an online resume and a showcase of my work as a
 - **Email**: binnigoel01@gmail.com
 - **GitHub**: [droidbg](https://github.com/droidbg)
 - **LinkedIn**: https://www.linkedin.com/in/binni-goel/
-- **Portfolio**: https://binni-portfolio.vercel.app
+- **Portfolio**: https://binnigoel.vercel.app
 
 Thank you for visiting my portfolio! I’m a frontend developer passionate about creating engaging user experiences. Suggestions or feedback? Feel free to open an issue or reach out!
