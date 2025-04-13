@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: src/components/Contact.jsx
+  checksum: da728ff3589bf942765efc9175bc2306654a924ed617d608d572f179390165e1
 - filename: src/components/Works.jsx
   checksum: 93e7638524c4e4898fc18a94a9438a19f212fb3268d9e335a682848d0e0e8b43
 - filename: src/components/Tech.jsx
