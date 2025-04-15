@@ -1,6 +1,6 @@
 # [Binni Goel | Portfolio Website](https://binnigoel.vercel.app)
 
-Welcome to the repository for my personal portfolio website! 
+Welcome to the repository for my personal portfolio website!
 This project showcases my skills, projects, experience as a frontend web developer specializing in modern web technologies.
 Visit the live site at: https://binnigoel.vercel.app
 
@@ -44,7 +44,7 @@ This portfolio website serves as an online resume and a showcase of my work as a
 
 ## Contact
 
-- **Email**: binnigoel01@gmail.com
+- **Email**: binnigoel.dev@gmail.com
 - **GitHub**: [droidbg](https://github.com/droidbg)
 - **LinkedIn**: https://www.linkedin.com/in/binni-goel/
 - **Portfolio**: https://binnigoel.vercel.app
