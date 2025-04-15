@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: src/assets/index.js
+  checksum: da348b59937cd7540bb27b01023ce570282fc2019837a7ceefc5e24759ac278f
 - filename: src/components/Contact.jsx
   checksum: da728ff3589bf942765efc9175bc2306654a924ed617d608d572f179390165e1
 - filename: src/components/Works.jsx
