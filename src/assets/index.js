@@ -32,7 +32,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 const reactcarousel =
-  "https://private-user-images.githubusercontent.com/41873024/430727047-ebfc661f-4d01-4721-804f-03806b94737c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ3MjI1NDgsIm5iZiI6MTc0NDcyMjI0OCwicGF0aCI6Ii80MTg3MzAyNC80MzA3MjcwNDctZWJmYzY2MWYtNGQwMS00NzIxLTgwNGYtMDM4MDZiOTQ3MzdjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE1VDEzMDQwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY2MDNhZmJjYjBiZWMzMjdlYmIxNzJiMWZiMmQ1MmYzODQ3MWYwOTNlMjdkYzhmY2JjODZmMDczYmRjMGQ4ZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.p2M4CZtYepU6IAkobm8m7s7YnDDSWGWClelQup3-_rI";
+  "https://github.com/user-attachments/assets/ebfc661f-4d01-4721-804f-03806b94737c";
 const foodpeek =
   "https://raw.githubusercontent.com/droidbg/FoodPeek/main/.github/example.png";
 
